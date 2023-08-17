@@ -1,3 +1,3 @@
 # JPMorgan Chase Software Engineering Virtual Experience  
 
-!(alt text)[JPMC.png]
+![alt text](JPMC.png)
